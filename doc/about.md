@@ -9,3 +9,9 @@
 * [Microsoft - AI sample](https://www.how-old.net/)
 
 ## Scope
+
+![scope](images/machine_learning_scope.png)
+[What’s the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
+
+## Deep learning 歴史
+[](images/deep_learning_timeline.jpg)

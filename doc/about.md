@@ -15,3 +15,14 @@
 
 ## Deep learning 歴史
 ![time line](images/deep_learing_timeline.jpg)
+[source - Deep Learning 101 - Part 1: History and Background](https://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html)
+
+* The First AI Winter
+    * Perceptron Learning Algorithm (60s) - supervised learning (教師あり学習)
+    * [Frank Rosenblatt - 1957](https://en.wikipedia.org/wiki/Frank_Rosenblatt)
+
+* MLP(multi-layer perceptron) & Backpropagation (80s)
+    * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
+    * [article by Geoffrey Hinton - Learning representations by back-propagating errors](https://www.nature.com/nature/journal/v323/n6088/abs/323533a0.html)
+    * convolutional neural nets (convnets CNN) (another name: [LeNet](http://yann.lecun.com/exdb/lenet/))
+    ![sign recognition](images/lenet)

@@ -42,7 +42,7 @@
     * [Standford 's Fei-Fei Li - ImageNet](http://www.image-net.org/)  
     [How we teach computers to understand pictures. Fei-Fei Li](https://www.youtube.com/watch?v=40riCqvRoMs)
 
-# 2012~
+* 2012~
     * Alex Krizhevsky, Ilya Sutskever, **Geoffrey Hinton** - [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
     * GPU power is use for training
 

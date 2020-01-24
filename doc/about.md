@@ -25,7 +25,8 @@
     * [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
     * [article by Geoffrey Hinton - Learning representations by back-propagating errors](https://www.nature.com/nature/journal/v323/n6088/abs/323533a0.html)
     * convolutional neural nets (convnets CNN) (another name: [LeNet](http://yann.lecun.com/exdb/lenet/))
-    ![sign recognition](images/sign_reconition_lecun.gif)
+    
+    ![sign recognition](images/sign_reconition_lecun.gif)  
     ([source - http://yann.lecun.com](http://yann.lecun.com/))
 
 * The Second AI Winter (90s - 2000s)

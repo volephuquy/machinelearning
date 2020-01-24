@@ -37,4 +37,9 @@
 
 # Kerasおすすめ
 - [Why use Keras?](https://keras.io/why-use-keras/)
-- High-level, with low-level(back-end): Tensorflow, CNTK, Theano(もう発展しない)
+- High-level, with low-level(backend): Tensorflow, CNTK, Theano(もうサポートしない)
+- syntaxシンプル, 開発者のUXが優先してくれる
+- 企業や研究者が使用するは多い
+- GPU, Distribution sysytem サポート
+- 多backend enginesサポート
+

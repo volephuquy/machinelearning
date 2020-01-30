@@ -6,7 +6,7 @@
 * Netflix, Amazon 映画・商品おすすめ仕組み
 * etc...
 * [Javis - Mark Zuckerberg 's smart home assistant](https://www.facebook.com/zuck/posts/10103351073024591)
-* [Microsoft - AI sample](https://www.how-old.net/)
+* [Microsoft - AI sample: How-old?](https://www.how-old.net/)
 
 ## Scope
 

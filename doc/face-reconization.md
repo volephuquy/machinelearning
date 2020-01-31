@@ -189,3 +189,7 @@ if cosine(model_scores[0], model_scores[1]) <= 0.4:
   vs [UEFA Super Cup match vs Liverpool in the 2019–20 season](https://weaintgotnohistory.sbnation.com/2019/9/4/20849401/chelsea-premier-league-champions-league-squad-lists-confirmed-for-first-half-of-2019-20-season)
 
 ![chelsea_team_compare](images/chelsea_team_compare.jpg)
+
+----
+[VGGFace2 algorithm](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
+[Keras-VGGFace](https://github.com/rcmalli/keras-vggface)

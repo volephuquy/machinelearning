@@ -190,6 +190,6 @@ if cosine(model_scores[0], model_scores[1]) <= 0.4:
 
 ![chelsea_team_compare](images/chelsea_team_compare.jpg)
 
-----
-[VGGFace2 algorithm](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
-[Keras-VGGFace](https://github.com/rcmalli/keras-vggface)
+--------
+[1][VGGFace2 algorithm](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)  
+[2][Keras-VGGFace](https://github.com/rcmalli/keras-vggface)

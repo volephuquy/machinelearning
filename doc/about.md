@@ -46,6 +46,18 @@
     * Alex Krizhevsky, Ilya Sutskever, **Geoffrey Hinton** - [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
     * GPU power is use for training
 
+
+# Keywords
+- Supervised Learning
+    - Classification
+    - Regression
+- Unsupervised Learning
+    - Clustering
+    - Association
+- Neural Networks(Artificial Neural Networks)
+- linear regression
+- Perceptron
+
 -----
 [1] [Deep Learning 101 - Part 1: History and Background](https://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html)  
 [2] [autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)  

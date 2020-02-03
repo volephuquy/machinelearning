@@ -4,6 +4,11 @@
 ## 1. 仮想マシンインストール
 - [anaconda](https://www.anaconda.com/distribution/)
 - 特に理由がなければ、Python3系版をインストール
+- 任意の仮装環境を作成
+    - GUI or via Terminal
+```
+# conda create -n keras python=3.7
+```
 
 ## 2. [Tensorflow](https://www.tensorflow.org/install) install
 ```

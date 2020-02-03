@@ -64,3 +64,6 @@
 [3] [CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more …](https://medium.com/@siddharthdas_32104/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)  
 [4] [A ‘Brief’ History off Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/)  
 [5] [A Concise History of Neural Networks](https://medium.com/@Jaconda/a-concise-history-of-neural-networks-2070655d3fec#.alhfvwwl2)  
+
+-----
+- elearning - [Coursera - Andrew Ng](https://www.coursera.org/learn/machine-learning)

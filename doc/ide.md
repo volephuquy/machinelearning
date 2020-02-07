@@ -14,6 +14,13 @@
 ```
 pip install tensorflow
 ```
+上記のインストールは2.1.0バージョンnがインストールされる。
+windowsの場合、2.1.0では上手く動かないので、2.0.0をインストールすべき
+
+```
+pip install tensorflow=2.0.0
+```
+
 - Tensorflow正常動作確認
 ```
 import tensorflow as tf

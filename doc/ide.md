@@ -14,8 +14,8 @@
 ```
 pip install tensorflow
 ```
-上記のインストールは2.1.0バージョンnがインストールされる。
-windowsの場合、2.1.0では上手く動かないので、2.0.0をインストールすべき
+上記のインストールは2.1.0バージョンがインストールされる。
+windowsの場合、2.1.0では上手く動かないので、2.0.0にする
 
 ```
 pip install tensorflow=2.0.0
@@ -35,7 +35,7 @@ print(hello)
 pip install keras
 ```
 
-- Keras with linear regression
+- Kerasがうごかどうかの確認してみよう。Keras with linear regression
 ```
 import numpy as np 
 from keras.models import Sequential

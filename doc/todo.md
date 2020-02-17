@@ -14,6 +14,6 @@
 - Anaconda
 
 ## Algorithm
-- Statistic properly
+- Statistic Probability
 - Optimization
 - Linear Algebra

@@ -168,7 +168,7 @@ def get_model_scores(faces):
       pooling='avg')
 
     # perform prediction
-    return model.predict(samples)
+    return model.predict(samples.reshape(len(faces), 224, 224, 3)
 
 faces = [extract_face_from_image(image_path)
          for image_path in ['iacocca_1.jpg', 'iacocca_2.jpg']]
@@ -179,8 +179,10 @@ model_scores = get_model_scores(faces)
 - use a [Euclidean or Cosine](https://cmry.github.io/notes/euclidean-v-cosine) function to calculate the similarity.
 - thresold(閾値: シキイチ)は、小さいほど良い。例で0.4を使ってみる
 ```
-if cosine(model_scores[0], model_scores[1]) <= 0.4:
+if cosine(model_scores[0], model_scores[1]) <= 0.5:
   print("Faces Matched")
+else :
+  print("Faces not matched")
 ```
 
 # 宿題

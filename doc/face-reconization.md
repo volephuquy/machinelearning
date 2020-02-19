@@ -185,8 +185,12 @@ if cosine(model_scores[0], model_scores[1]) <= 0.4:
 
 # 宿題
 - multiple face を認識してみる
-- 例：　Chelsea Football Club: [Europa League match vs Slavia Prague in the 2018–19 season](https://weaintgotnohistory.sbnation.com/2019/4/18/18485509/chelsea-vs-slavia-prague-europa-league-confirmed-lineups-how-to-watch-highlights-live-blog)
-  vs [UEFA Super Cup match vs Liverpool in the 2019–20 season](https://weaintgotnohistory.sbnation.com/2019/9/4/20849401/chelsea-premier-league-champions-league-squad-lists-confirmed-for-first-half-of-2019-20-season)
+- 例：　
+Chelsea Football Club: 
+Europa League match vs Slavia Prague in the 2018–19 season
+![uropa League match vs Slavia Prague in the 2018–19 season](https://cdn.vox-cdn.com/thumbor/Ua2BXGAhneJHLQmLvj-ZzILK-Xs=/0x0:4872x3160/1820x1213/filters:focal(1877x860:2655x1638):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63613936/1143553317.jpg.5.jpg)
+  vs UEFA Super Cup match vs Liverpool in the 2019–20 season
+![UEFA Super Cup match vs Liverpool in the 2019–20 season](https://cdn.vox-cdn.com/thumbor/mT3JHQtZIyInU8_uGxVH-TCbF50=/0x415:5000x2794/1820x1213/filters:focal(1878x1176:2678x1976):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65171515/1161847141.jpg.0.jpg)
 
 ![chelsea_team_compare](images/chelsea_team_compare.jpg)
 

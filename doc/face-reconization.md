@@ -168,7 +168,7 @@ def get_model_scores(faces):
       pooling='avg')
 
     # perform prediction
-    return model.predict(samples.reshape(len(faces), 224, 224, 3)
+    return model.predict(samples.reshape(len(faces), 224, 224, 3))
 
 faces = [extract_face_from_image(image_path)
          for image_path in ['iacocca_1.jpg', 'iacocca_2.jpg']]
